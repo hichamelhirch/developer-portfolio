@@ -109,28 +109,29 @@ NEXT_PUBLIC_RECAPTCHA_SECRET_KEY = # For captcha verification on contact form
 NEXT_PUBLIC_RECAPTCHA_SITE_KEY =
 ```
 
-### Then, Customize data in the `utils/data` [folder](https://github.com/said7388/developer-portfolio/tree/main/utils/data).
+### Then, Customize data in the `utils/data` [folder](https://github.com/hichamelhirch/developer-portfolio/tree/main/utils/data).
 
 Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
-  designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "...",
-};
+  name: "Hicham EL HIRCH",
+  profile: '/profile.png',
+  designation: "Software Developer",
+  description: "I am Hicham EL HIRCH, a passionate and dedicated Full Stack Developer specializing in Java-based technologies. I excel in both front-end development using Angular and React, and back-end services with Spring Boot. I’m always eager to explore new technologies, continuously improving my skills and solving complex challenges. Open to any opportunities that align with my experience and drive for innovation.",
+  email: 'hichamelhirchgmi@gmail.com',
+  phone: '+212631790457',
+  address: 'Casablanca, Maroc',
+  github: 'https://github.com/hichamelhirch',
+  facebook: 'https://www.facebook.com/profile.php?id=100020253690219&mibextid=ZbWKwL',
+  linkedIn: 'https://www.linkedin.com/in/hicham-el-hirch/',
+  twitter: 'https://x.com/Hicham843737462',
+  stackOverflow: 'https://stackoverflow.com/users/27385067/hichamelhirch',
+  leetcode: "https://leetcode.com/u/hichamelhirch/",
+  devUsername: "hichamelhirch",
+  resume: "https://drive.google.com/file/d/14iZa4KKZ-kv_YA7nYV2pUBRQQFbRE5na/view?usp=sharingg"
+}
+
 ```
 
 `devUsername` Used for fetching blog from `dev.to`.
