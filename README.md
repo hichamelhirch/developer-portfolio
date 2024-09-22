@@ -132,7 +132,11 @@ export const personalData = {
 
 }
 
+<<<<<<< HEAD
 =======
+=======
+};
+>>>>>>> 65c56c608bdb9ab2487abc3f0aa8964cd9eec0c9
 
 ```
 
