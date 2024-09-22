@@ -129,8 +129,12 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/hichamelhirch/",
   devUsername: "hichamelhirch",
   resume: "https://drive.google.com/file/d/14iZa4KKZ-kv_YA7nYV2pUBRQQFbRE5na/view?usp=sharingg"
+<<<<<<< HEAD
 }
 
+=======
+};
+>>>>>>> 6557d41fc652816dea7a0053fe7baf5568eb54b6
 ```
 
 `devUsername` Used for fetching blog from `dev.to`.
