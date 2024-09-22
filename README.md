@@ -134,7 +134,7 @@ export const personalData = {
 
 =======
 };
->>>>>>> 6557d41fc652816dea7a0053fe7baf5568eb54b6
+
 ```
 
 `devUsername` Used for fetching blog from `dev.to`.
