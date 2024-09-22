@@ -9,7 +9,7 @@
 
 # Developer Portfolio
 
-### Are you struggling to create a professional portfolio website? Look no further! You can use the Developer Portfolio template and create your very own personalized portfolio today! My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
+### Struggling to create a professional portfolio website? Look no further! With the Developer Portfolio template, you can create your own personalized portfolio today. My website is designed to be user-friendly and easily customizable, making it perfect for both developers and freelancers.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ![](./public/image/screen.png)
 
-
+## View live preview [here](https://hichamelhirch.vercel.app/).
 ---
 
 ## Table of Contents :scroll:
@@ -129,12 +129,11 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/hichamelhirch/",
   devUsername: "hichamelhirch",
   resume: "https://drive.google.com/file/d/14iZa4KKZ-kv_YA7nYV2pUBRQQFbRE5na/view?usp=sharingg"
-<<<<<<< HEAD
+
 }
 
 =======
-};
->>>>>>> 6557d41fc652816dea7a0053fe7baf5568eb54b6
+
 ```
 
 `devUsername` Used for fetching blog from `dev.to`.
