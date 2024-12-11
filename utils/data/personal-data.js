@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+212631790457',
   address: 'Casablanca, Maroc',
   github: 'https://github.com/hichamelhirch',
-  facebook: 'https://www.facebook.com/profile.php?id=100020253690219&mibextid=ZbWKwL',
+ // facebook: 'https://www.facebook.com/profile.php?id=100020253690219&mibextid=ZbWKwL',
   linkedIn: 'https://www.linkedin.com/in/hicham-el-hirch/',
   twitter: 'https://x.com/Hicham843737462',
   stackOverflow: 'https://stackoverflow.com/users/27385067/hichamelhirch',
   leetcode: "https://leetcode.com/u/hichamelhirch/",
   devUsername: "hichamelhirch",
-  resume: "https://drive.google.com/file/d/1LGRqzTGJ5OuVMaJM_ptUb4nRcINveERQ/view?usp=drive_link"
+  resume: "https://drive.google.com/file/d/1ON_-Hcp8orc0dCNO6-RywMYMPyiVsHsG/view?usp=drive_link"
 }
